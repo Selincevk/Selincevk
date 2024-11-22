@@ -5,8 +5,6 @@
 - 📫 How to reach me : selincevk@gmail.com
 - 🔭 I’m currently working on **HTML,CSS,JS**
 - 🛠 Technologies and Tools I Us :
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
