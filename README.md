@@ -5,13 +5,6 @@
 - 📫 How to reach me : selincevk@gmail.com
 - 🔭 I’m currently working on **HTML,CSS,JS**
 - 🛠 Technologies and Tools I Us :
- 
-
-Selincevk/Selincevk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-- 🔭 I’m currently working on **HTML,CSS,JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
