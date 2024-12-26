@@ -1,6 +1,6 @@
 
 - 👋 Merhaba, Ben @Selincevk (Selin Çevik) Şuan da ReactFrotend'e odaklanıyorum ve modern web uygulamaları oluşturma becerilerimi geliştirmek için çalışıyorum.Hedeflerim, yenilikçi ve kullanıcı dostu çözümler oluşturmak için gelişmiş teknolojilerden yararlanmak,Kendi projelerimi geliştirip açık kaynak topluluğuna katkıda bulunmak,yapay zeka alanında daha derinlemesine bilgi sahibi olmak. Sektörün en iyi uygulamalarından öğrenmek ve etkili yazılım projelerine katkıda bulunmak için istekliyim.Projeleri tartışmak veya iş birliği fırsatlarını keşfetmekle ilgileniyorsanız, bağlantı kurmaktan mutluluk duyarım!
-- 👀 I’m interested in HTML | CSS | Boostrap | SCSS
+- 👀 I’m interested in HTML | CSS | Boostrap | SCSS | JavaScript | React Mobile
 - 🌱 I’m currently learning :  FrontEnd | BackEnd | React | React Native | Mobile | Node.js | MernStack |
 - 📫 iletişim İçin : selincevk@gmail.com
 - 🔭 I’m currently working on **HTML,CSS,JS**
